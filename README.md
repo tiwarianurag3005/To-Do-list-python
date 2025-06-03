@@ -4,7 +4,7 @@ A simple and interactive command-line To-Do List application built using Python.
 It allows users to add, view, complete, and delete tasks with data saved in a local file.
 ----------------------------------------
 
-📌 Features:
+📌 Features:-
 ----------------------------------------
 🔹 Add new tasks  
 🔹 View all current tasks  
@@ -20,13 +20,14 @@ It allows users to add, view, complete, and delete tasks with data saved in a lo
 4️⃣  Run the script:
      👉 python todo.py  
 5️⃣  Use the menu options:-
-    1. View Tasks  
-    2. Add Task  
-    3. Mark Task as Done  
-    4. Delete Task  
-    5. Exit  
 
-🧪 Example:
+      1. View Tasks  
+      2. Add Task  
+      3. Mark Task as Done  
+      4. Delete Task  
+      5. Exit  
+
+🧪 Example:-
 ----------------------------------------
 ===== TO-DO LIST =====  
 1. View Tasks  
@@ -39,27 +40,27 @@ Enter your choice (1-5): 2
 Enter new task: Complete Python assignment  
 Task added!
 
-🗂 Data Persistence:
+🗂 Data Persistence:-
 ----------------------------------------
 📁 All tasks are saved in a file named: tasks.txt  
 🔁 When you re-run the app, previous tasks are automatically loaded from this file.
 
-📁 File Structure:
+📁 File Structure:-
 ----------------------------------------
 todo-console-app/  
  ┣ 📄 todo.py  
  ┣ 📄 tasks.txt      (auto-created)  
  ┗ 📄 README.txt
 
-🛠️ Requirements:
+🛠️ Requirements:-
 ----------------------------------------
 🐍 Python 3.x  
 📦 No external libraries required
 
-🙌 Credits:
+🙌 Credits:-
 ----------------------------------------
 Made with ❤️ in Python by Anurag Tiwari
 
-📃 License:
+📃 License:-
 ----------------------------------------
 This project is open-source and free to use under the MIT License.
