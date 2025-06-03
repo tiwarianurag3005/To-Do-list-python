@@ -19,14 +19,12 @@ It allows users to add, view, complete, and delete tasks with data saved in a lo
 3️⃣  Navigate to the folder containing todo.py  
 4️⃣  Run the script:
      👉 python todo.py  
-5️⃣  Use the menu options:
-     ┌──────────────────────────────┐
-     │ 1. View Tasks                │
-     │ 2. Add Task                  │
-     │ 3. Mark Task as Done         │
-     │ 4. Delete Task               │
-     │ 5. Exit                      │
-     └──────────────────────────────┘
+5️⃣  Use the menu options:-
+    1. View Tasks  
+    2. Add Task  
+    3. Mark Task as Done  
+    4. Delete Task  
+    5. Exit  
 
 🧪 Example:
 ----------------------------------------
