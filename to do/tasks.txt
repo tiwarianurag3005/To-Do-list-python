@@ -1,0 +1,45 @@
+📝 TO-DO LIST PROJECT - USAGE INSTRUCTIONS
+
+1️⃣ Save the Code:
+- Copy the Python code into a file and name it: todo.py
+
+2️⃣ Open Terminal/Command Prompt:
+- Navigate to the folder where todo.py is saved.
+
+3️⃣ Run the Program:
+> python todo.py
+
+4️⃣ Use the Menu:
+You will see the following menu options:
+----------------------------------------
+1. View Tasks
+2. Add Task
+3. Mark Task as Done
+4. Delete Task
+5. Exit
+----------------------------------------
+
+5️⃣ Add a Task (Option 2):
+- Enter any task name (e.g., "Study DSA")
+- It will be saved and shown as: [ ] Study DSA
+
+6️⃣ View Tasks (Option 1):
+- Shows a numbered list of all your tasks
+
+7️⃣ Mark a Task as Done (Option 3):
+- Enter the number of the task you completed
+- It will be updated to: [✔] Study DSA
+
+8️⃣ Delete a Task (Option 4):
+- Enter the task number you want to delete
+
+9️⃣ Exit (Option 5):
+- Ends the program
+
+🔁 Next Time You Run:
+- Your tasks will automatically load from the "tasks.txt" file
+
+📁 Data File:
+- All tasks are saved in: tasks.txt
+
+Happy task managing! ✅
