@@ -12,7 +12,7 @@ It allows users to add, view, complete, and delete tasks with data saved in a lo
 🔹 Delete tasks  
 🔹 Data saved in 'tasks.txt' file (auto-loaded on next run)
 
-🚀 How to Run:
+🚀 How to Run:-
 ----------------------------------------
 1️⃣  Save the Python code in a file named: todo.py  
 2️⃣  Open your terminal or command prompt  
